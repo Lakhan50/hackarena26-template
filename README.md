@@ -5,17 +5,17 @@
 
 ## Team Details
 
-- **Team Name:**
-- **Members:**
-- **Domain:**
+- **Team Name: Team Livasa**
+- **Members: Aditi Padamwar, Lakhan Kanade, Ajit Suryawanshi**
+- **Domain: Healthcare & Wellness**
 
 ---
 
 ## Project
 
-**Problem:** 
+**Problem: Most people spend 90% of their time indoors, unaware of VOCs or stagnant CO2 levels. Create a holistic "Home Environment Dashboard" that correlates air quality spikes with physical health symptoms.** 
 
-**Solution:** 
+**Solution: An AI-enabled IoT system that monitors gas leakage, fire risk, CO₂, VOCs, temperature, humidity, and air quality, providing a real-time dashboard, smart alerts, automatic air purification, and AI-based health symptom correlation to ensure a safe indoor environment.** 
 
 ---
 
@@ -32,6 +32,17 @@
 ## Attribution
 
 List any external libraries, APIs, or datasets used here.
+blynk
+esp32
+dht11
+Express.js
+CORS
+Axios
+Blynk Cloud API
+Ollama API
+Google Fonts API
+Ollama
+Llama 3
 
 ---
 
